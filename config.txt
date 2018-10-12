@@ -1,4 +1,4 @@
-token=NDk5Mzk0MTg0Njc1OTgzMzcx.Dp7onA.4XLEmKopaholijLm9kGJ1cZHubU
+token=NDk3MTQ0OTIwNTkxNjk1ODcy.DqGIqg.UHL2kArLGPw35jrAasq-6IK6x_c
 owner=486088887890870282
 prefix=L
 game=Tybe Lhelp
